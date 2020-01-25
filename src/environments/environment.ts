@@ -6,7 +6,7 @@ export const environment = {
   production: false,
   urlFirestoreGoty: 'http://localhost:5000/firestore-goty-cc76a/us-central1',
   firebase: {
-    apiKey: "AIzaSyDzo9_UKjnMXfVrat8A7dkh22ERPEW_5MI",
+    apiKey: "[VER CUAL ES EN LA CONSOLA DE FIREBASE]",
     authDomain: "firestore-goty-cc76a.firebaseapp.com",
     databaseURL: "https://firestore-goty-cc76a.firebaseio.com",
     projectId: "firestore-goty-cc76a",
